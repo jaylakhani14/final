@@ -1,0 +1,9 @@
+Flask
+mysql-connector
+simplejson
+flask-mysqldb
+flask-mysql
+sendgrid
+flask_mail
+pymysql
+Flask-EmailVerifier
